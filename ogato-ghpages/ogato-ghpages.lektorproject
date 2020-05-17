@@ -1,0 +1,5 @@
+[project]
+name = ogato-ghpages
+
+[servers.ghpages]
+target = ghpages://ogatodesuyo/ogato.github.io
